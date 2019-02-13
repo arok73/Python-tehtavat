@@ -1,0 +1,5 @@
+def funktio():
+    pass
+
+
+funktio()

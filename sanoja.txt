@@ -1,0 +1,12 @@
+tietokone
+hattuteline
+kaljakori
+autokauppias
+kissa
+koira
+imuri
+puuveistos
+hylly
+lattia
+tuuli
+hattu
